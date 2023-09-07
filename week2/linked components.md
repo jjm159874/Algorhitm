@@ -2,7 +2,7 @@
 
 <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200421194558/Count-of-Connected-Components.png" />
 
-## 1012예제(BFS)
+## 1012예제(DFS)
 ```c++
 #include<iostream>
 #include<vector>
