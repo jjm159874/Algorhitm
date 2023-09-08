@@ -21,3 +21,9 @@ int main() {
 
 `참고`
 예를 들어, 3번째 구간합을 알고싶다면 psum[2]-psum[1]
+
+`BOJ`
+[실버3/ 구간 합 구하기 4 ](https://www.acmicpc.net/problem/11659)
+[골드3/ 자석](https://www.acmicpc.net/problem/28303)
+[골드4/ 약수의 합](https://www.acmicpc.net/problem/17425)
+[플레티넘5/ 귀농](https://www.acmicpc.net/problem/1184)
