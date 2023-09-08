@@ -6,8 +6,10 @@ int psum[10],arr[10]={1,2,3,4,5,6,7,8,9,10};
 int main() {
 	for (int i = 0; i < 10; i++)
 	{
-		for (int j = 0; j <= i; j++) {
-			psum[i] += arr[j];
+		if(i==0)
+			psum[i]=arr[i];
+		else{
+			psum[i]=psum[i-1]+arr[i];
 		}
 	}
 
